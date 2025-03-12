@@ -5,7 +5,7 @@ How to Run:
 1.Install Dependencies:
 pip install numpy matplotlib streamlit
 
-2. Run the App:
+2.Run the App:
 streamlit run Road_Network_Planning.py
 
 3.Open in Browser:
